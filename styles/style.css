@@ -1,0 +1,26 @@
+body {
+    background-color: bisque;
+    background-image: url("../assets/background.jpg");
+  }
+  
+img {
+    height: 13rem;
+    width: 13rem;
+    border-radius: 50%;
+    float: left;
+    margin-right: 1rem;
+}
+
+.container {
+    background-color: antiquewhite;
+    border-radius: 10%;
+    border-style: dashed;
+    margin: 2% auto; 
+    padding: 1rem; 
+    max-width: 800px;
+    overflow: auto;
+}
+
+h1 {
+    align-self: center;
+}
